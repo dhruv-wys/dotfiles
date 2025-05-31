@@ -14,7 +14,6 @@ Note: My pc cannot handle blur so I'm using transparency effects.
 - [Rofi](https://github.com/davatorium/rofi) - App launcher
 - [i3blocks](https://github.com/vivien/i3blocks) - top bar
 - [kitty](https://github.com/kovidgoyal/kitty) - For terminal
-- [neovim](https://github.com/neovim/neovim) - text editor or ide
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - cli
 - [scrot](https://github.com/resurrecting-open-source-projects/scrot) - ss tool
 - [nwg-look](https://github.com/nwg-piotr/nwg-look) - theme setter
@@ -31,7 +30,7 @@ Here are some screenshots of the uploaded dotfiles:
 ### Installation 
 
 - **1. For an EndeavourOS i3 installation**
-  Download and extract config folders to your home (overwrite if asked), `run yay -S picom fastfetch neovim kitty rofi scrot open nwg-look`, apply the Material-Black-Lavender-Aero GTK theme, then restart your session.
+  Download and extract config folders to your home (overwrite if asked), `run yay -S picom fastfetch neovim kitty rofi scrot open nwg-look`, apply the GTK theme, then restart your session.
 
 - **2. Other (for Arch-based distros)**
   Run `yay -S i3 picom fastfetch neovim kitty rofi scrot polkit-gnome nwg-look`, copy config files to your home (overwrite if asked), apply the GTK theme in nwg-look, then restart your session.
