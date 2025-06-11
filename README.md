@@ -15,7 +15,7 @@ I'm using this on EndeavourOS, if it matters.
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - cli
 - [scrot](https://github.com/resurrecting-open-source-projects/scrot) - ss tool
 - [nwg-look](https://github.com/nwg-piotr/nwg-look) - theme setter
-- **extra**: For icons I've used [Catppuccin-papirus](https://github.com/catppuccin/papirus-folders) and for gtk [Dracula](https://github.com/dracula/gtk) and [Catppuccin-gtk](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) theme. I've also included some cursor themes. I'm currently using [Volantes cursors](https://github.com/varlesh/volantes-cursors).
+- **extra**: For icons I've used [Catppuccin-papirus](https://github.com/catppuccin/papirus-folders) and for gtk [Dracula](https://github.com/dracula/gtk) theme. I've also included some cursor themes. I'm currently using [Volantes cursors](https://github.com/varlesh/volantes-cursors).
 
 ### Screenshots
 Here are some screenshots of the uploaded dotfiles:
